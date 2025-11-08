@@ -13,7 +13,7 @@ def get_crypto_data(vs_currency="usd", per_page=10):
     response.raise_for_status() 
     data = response.json() 
     # Log CoinGecko data to CSV for ML dataset building 
-    with open("market_log.csv", "a", newline="", encoding="utf-8") as file: 
+    with open("data/market_log.csv", "a", newline="", encoding="utf-8") as file: 
         writer = csv.writer(file)
         if file.tell() == 0:
             writer.writerow(["timestamp", "id", "price", "market_cap", "volume", "24h_change"])

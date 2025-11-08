@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from coingecko_api import get_crypto_data
-from twitter_scraper import get_tweets
+from datacollection.coingecko_api import get_crypto_data
+from datacollection.twitter_scraper import get_tweets
 
 app = FastAPI(title="Crypto & Tweets Scraper API")
 

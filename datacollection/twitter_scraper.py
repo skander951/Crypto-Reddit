@@ -18,7 +18,7 @@ NITTER_INSTANCES = [
     "https://nitter.nohost.network"
 ]
 
-CACHE_FILE = "tweet_cache.json"
+CACHE_FILE = "data/tweet_cache.json"
 CACHE_DURATION = timedelta(minutes=10)  # cache lifespan
 
 def load_cache():
@@ -114,7 +114,7 @@ def get_tweets(crypto_name, max_results=10):
     save_cache(cache)
 
     # Log to CSV (ML dataset building)
-    with open("tweets_log.csv", "a", newline="", encoding="utf-8") as file:
+    with open("data/tweets_log.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if file.tell() == 0:
             writer.writerow(["timestamp", "crypto_name", "tweet_created_at", "text", "sentiment", "like_count", "retweet_count"])
