@@ -6,3 +6,5 @@ textblob
 python-dotenv
 apscheduler
 pandas
+scikit-learn
+matplotlib

@@ -1,0 +1,68 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# ===== Virtual Environments =====
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+*.venv
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs & Cache =====
+*.log
+*.tmp
+*.bak
+*.cache
+*.json
+
+# ===== Data Files =====
+market_log.csv
+tweets_log.csv
+tweet_cache.json
+
+# ===== Jupyter / Notebook =====
+.ipynb_checkpoints/
+
+# ===== FastAPI / Deployment =====
+*.db
+*.sqlite3
+__pycache__/
+uvicorn.log
+
+# ===== API Keys / Secrets =====
+.env
+*.key
+*.pem
+*.crt
+
+# ===== Misc =====
+# Ignore test results, profiling data, etc.
+*.out
+*.prof
+*.dat
+*.h5
+*.pth
+*.pt
