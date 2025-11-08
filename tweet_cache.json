@@ -1,155 +1,538 @@
 {
   "bitcoin": {
-    "timestamp": "2025-11-05T19:05:13.312276",
+    "timestamp": "2025-11-07T20:34:50.390428",
     "tweets": []
   },
   "ethereum": {
-    "timestamp": "2025-11-05T19:05:39.442368",
+    "timestamp": "2025-11-07T20:35:07.401366",
+    "tweets": []
+  },
+  "dogecoin": {
+    "timestamp": "2025-11-07T20:35:14.461187",
     "tweets": [
       {
-        "created_at": "9s",
-        "text": "Theory suggests Binance and Wintermute may be collaborating, influencing Bitcoin and Ethereum price crashes. Institutional involvement raises market manipulation concerns. Bitcoin price: $103,786. bitcoinist.com/bitcoin-ether….",
-        "sentiment": "neutral",
-        "like_count": "",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "10s",
-        "text": "Amen 🙏📖",
-        "sentiment": "neutral",
-        "like_count": "",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "10s",
-        "text": "2/2 Explore how Drosera works, why its architecture marks a significant shift in Ethereum’s operation, and what the mainnet launch means for builders and protocols in our latest article: everstake.one/blog/drosera-m…",
+        "created_at": "7s",
+        "text": "It's their chance to prove that this so-called Scrypt family exists. This joke coin has no narrative of its own. Privacy + max supply is a true foundation.",
         "sentiment": "positive",
         "like_count": "",
         "retweet_count": ""
       },
       {
-        "created_at": "11s",
-        "text": "ETH/USD\n𝐃𝐚𝐭𝐚 𝐝𝐨𝐞𝐬𝐧’𝐭 𝐬𝐥𝐞𝐞𝐩. 𝐍𝐞𝐢𝐭𝐡𝐞𝐫 𝐝𝐨𝐞𝐬 𝐒𝐢𝐛𝐲𝐥𝐥𝐢𝐮𝐦.\nPrediction :  05 Nov. 2025, 09:00 AM\n\n#Sibyllium forecasted a decline on #Ethereum’s smoothed stochastic (-21.33%) with 86.32% confidence.\n\n📉 Expected timing: A downward turn projected to occur around 08:00 to 09:00 AM, as overbought momentum reached exhaustion.\n\n⏱ Result : 05 Nov. 2025, 04:00 PM\nExactly as predicted, #ETHUSD reversed at , initiating a confirmed short-term downturn, validating both the strength and precision of the signal.\n\nOur AI models analyze millions of data points per hour to anticipate market inflection before human traders can see it.\n\n🔁 Retweet if you believe proof speaks louder than predictions.\n\n#sibyllium #AItrading #marketforecast #ETHUSD #crypto #financetech #tradingintelligence #AI #quant",
+        "created_at": "8s",
+        "text": "@dogecoin to the moon",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "35s",
+        "text": "Bull shit most of crypto are up , much even more than dogecoin, sow no nothing to do with etf news !! Hopefully, that has to come when it is in the picture..",
         "sentiment": "positive",
         "like_count": "",
         "retweet_count": ""
       },
       {
-        "created_at": "12s",
-        "text": "espresso makes ethereum rollups fast, synced, and ready to build",
-        "sentiment": "positive",
-        "like_count": "",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "14s",
-        "text": "All hail King @RAILGUN_Project $RAIL",
-        "sentiment": "neutral",
-        "like_count": "",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "15s",
-        "text": "2️⃣ BOB is building a system called a Bitcoin Secured Network (BSN)\nit keeps bitcoin’s security but connects it to a programmable layer like ethereum",
-        "sentiment": "neutral",
-        "like_count": "1",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "18s",
-        "text": "Crypto brings people together",
-        "sentiment": "neutral",
-        "like_count": "",
-        "retweet_count": ""
-      },
-      {
-        "created_at": "19s",
-        "text": "Hope everyone loaded the crytpo dip with altcoins and Ethereum.",
+        "created_at": "1m",
+        "text": "@dogecoin to the moon",
         "sentiment": "neutral",
         "like_count": "",
         "retweet_count": ""
       },
       {
         "created_at": "1m",
-        "text": "A decade of building - and still, the heart of Ethereum beats for privacy. 🕊️\n\nFrom Zcash to zk-proofs, from Tor to Tornado, from Cypherpunk roots to the Privacy District - every talk, every experiment has carried the same message:\nprivacy is not a feature, it is a human right woven into the protocol of freedom.\n\nEthereum was never meant to watch - it was meant to protect.\nTo build open systems that honor both transparency and dignity.\n\nAs the next generation gathers in Buenos Aires, the torch of Cypherpunk burns bright once more. 🔷✨\nPrivacy is normal. Privacy is sacred.",
+        "text": "Higher",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "19m",
+        "text": "@anoncoinit is soon to be the main launchpad for @dogecoin / @DogeOS upon its release We seeing $dogecoin run on the platform to 800k and $doge remain unbonded? This is a no brainer bid to me 3jLNswoRAe7AsY1B6nVH3bKnbUmSC12a6ffrRhUHeDUB",
         "sentiment": "positive",
         "like_count": "2",
-        "retweet_count": "2"
+        "retweet_count": "3"
+      },
+      {
+        "created_at": "1m",
+        "text": "Google will bring Polymarket and Kalshi odds directly into Search and Finance.   Zcash back into crypto's top 20 after a rally pushed ZEC market cap over $11B.  Bitwise confirms its spot Dogecoin ETF may launch within 20 days. @JennSanasie hosts \"CoinDesk Daily.\" Thank you @GeniusGroupLtd_   for being a sponsor of the CoinDesk Media Network.",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "2h",
+        "text": "JUST IN: BITWISE FILES FOR SPOT DOGECOIN ETF Bitwise has submitted an 8(a) form for a Spot Dogecoin ETF.",
+        "sentiment": "neutral",
+        "like_count": "58",
+        "retweet_count": "103"
+      },
+      {
+        "created_at": "5h",
+        "text": "Be the person your Doge thinks you are.",
+        "sentiment": "neutral",
+        "like_count": "128",
+        "retweet_count": "107"
+      },
+      {
+        "created_at": "11m",
+        "text": "The weekly 200 ema has been absolutely crucial support for #Dogecoin five times this bull cycle while we have continued to make macro higher highs and higher lows. So far we're seeing a very nice bounce back up into our rising channel from a sixth tap of the weekly 200 ema this cycle. Goal is to hold both of these key levels while 3D-1W time frames continue resetting. Also need BTC to hold up of course. #Altcoins #DOGE #Crypto",
+        "sentiment": "positive",
+        "like_count": "2",
+        "retweet_count": "3"
       }
     ]
   },
   "tether": {
-    "timestamp": "2025-11-05T19:06:42.783678",
+    "timestamp": "2025-11-07T20:35:40.292621",
     "tweets": [
       {
-        "created_at": "38s",
-        "text": "Bullshit.\n\nTry bridging USDT0 from any chain back to ETH mainnet.\n\nJack shit fees or processing time.\n\nSuck deeznuts.\n\nHow you doing have USDT0 on mainnet eth? What you were prohibited by tether?",
+        "created_at": "3h",
+        "text": "TETHER STACKS $8.9 BILLION IN BITCOIN! The stablecoin giant now holds 87,296 $BTC based on Arkham  solidifying its spot among the largest corporate #Bitcoin holders.",
+        "sentiment": "neutral",
+        "like_count": "85",
+        "retweet_count": "66"
+      },
+      {
+        "created_at": "44s",
+        "text": "Oh my god the junlian-Wiseone tether hurt SOOO BADDD",
         "sentiment": "neutral",
         "like_count": "",
         "retweet_count": ""
       },
       {
-        "created_at": "19h",
-        "text": "Disclosure not their strong suit",
+        "created_at": "3h",
+        "text": "As you progress in life, it takes courage to follow your path of alignment and meaningful growth. As we accumulate creature comforts, they equally tether us to the desire to forgo charging valiantly into the unknown, choosing instead to remain in a reality that satiates the soul just enough to lull it into conformity - enabling the mind to rationalise and form reasons why staying is a great idea. But the spirit feels the dissonance, it senses the subtle unrest and seeks to feed the internal tension - one that is textured like a void. Growth is uncomfortable. It demands leaps that can shatter the scaffolding and infrastructure you've spent most of your life building. It demands courage - to feel your heart thrash downward on a great trampoline and trust that you will land on your feet after being propelled into the air. In this way, the courage to face the unknown with no nets other than the ones you've grown and earned within yourself is true spiritual strength. Ascension towards higher consciousness and truth shifts you in a direction that no longer worships all that is tangible. It walks hand in hand with being misunderstood. In becoming more aligned with your soul and the deeper truths of the world, you paradoxically become more detached from the world in its current incarnation. Compassionate detachment at its finest.",
         "sentiment": "positive",
-        "like_count": "1",
-        "retweet_count": ""
+        "like_count": "11",
+        "retweet_count": "16"
       },
       {
-        "created_at": "13h",
-        "text": "Poetry as Time's Forever Seduction\n\nWaves lap on vast shores behind our open eyes\nChildren of our sun we devour their poignancies\nYour deep look inside is a tether of light you gift\nOur footprints semaphores we sandcastle desire.\n\nOur music reminiscent of looks we once traded\nSongs Johnny used to seduce us as night folded\nEven our poetry still pins us back in days shared\nLike songs we’ll never forget love was everything.\n\nYou always dance as if light couldn’t capture us\nBetween times I thought I just might touch yours\nEven as we’ve found new lovers, you sing to me\nPoetry once sealed in light can never fade, love.\n\n#TidesOfLight\n📸: Raúl Cantú / Pinterest",
+        "created_at": "6h",
+        "text": "BREAKING TETHER JUST BOUGHT 9,850 $BTC WORTH AROUND $1 BILLION. BIG PLAYERS ARE BUYING THE DIP!",
         "sentiment": "positive",
-        "like_count": "1",
-        "retweet_count": "22"
+        "like_count": "49",
+        "retweet_count": "59"
+      },
+      {
+        "created_at": "1h",
+        "text": "BREAKING: TETHER JUST BOUGHT $97 MILLION WORTH OF $BTC. CLASSIC DIP CONFIRMATION",
+        "sentiment": "positive",
+        "like_count": "26",
+        "retweet_count": "28"
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "Byron Donalds is a Jamaican Tether & we see how much Jamaicans HATE Black Americans.",
+        "sentiment": "negative",
+        "like_count": "46",
+        "retweet_count": "121"
+      },
+      {
+        "created_at": "1m",
+        "text": "my only earthly tether LMAO",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
       },
       {
         "created_at": "2m",
-        "text": "and if i say that destiel and twelveclara have a tether…",
+        "text": "$btc catching a tether lifeline",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "15h",
+        "text": "TETHER JUST BOUGHT $97,000,000 WORTH OF #BITCOIN YOU ARE SCARED, WHALES ARE BUYING",
+        "sentiment": "positive",
+        "like_count": "112",
+        "retweet_count": "264"
+      },
+      {
+        "created_at": "3m",
+        "text": "No tether will ever get into public office ever again because of their hate and bull  against #FBA. MF's we ain't playing, this delineation  is real. Keep thinking it's a game",
+        "sentiment": "negative",
+        "like_count": "",
+        "retweet_count": ""
+      }
+    ]
+  },
+  "usd-coin": {
+    "timestamp": "2025-11-07T20:40:11.033519",
+    "tweets": [
+      {
+        "created_at": "Oct 31",
+        "text": "usd-coin.eth",
         "sentiment": "neutral",
         "like_count": "",
         "retweet_count": ""
       },
       {
-        "created_at": "Oct 25",
-        "text": "When the tether ceo @paoloardoino pitches the P2P future, to the biggest names and whales in crypto space, you should pay attention.\n\n$tnk $tap $nat",
+        "created_at": "Sep 15",
+        "text": "6/ The dominance of USD-stablecoins threatens to 'dollarize' the UK's digital economy (and not only.) If the default currency for digital life is a USD-coin, the Pound becomes a relic. A historical artifact in its own country. We even have a name for such stuff happening:",
         "sentiment": "neutral",
-        "like_count": "2",
+        "like_count": "1",
         "retweet_count": ""
       },
       {
-        "created_at": "Oct 30",
-        "text": "At FII, talking about Tether, building a stable society through tech and open finance.",
-        "sentiment": "neutral",
-        "like_count": "22",
-        "retweet_count": "24"
-      },
-      {
-        "created_at": "Nov 4",
-        "text": "this still gives me so much buzz…….. nancy will tether INJECT ITTTTTT",
-        "sentiment": "positive",
-        "like_count": "3",
-        "retweet_count": "72"
-      },
-      {
-        "created_at": "8h",
-        "text": "$USDT (Tether) live price: ~$1.00 USD.\n\nTether trades around $1.00 a zone dominated by fundamentals, not sentiment.If $USDT clears $1.005 with strong volume, the next swing could target $1.01+.\nIf support near $0.995 fails, risk may pull toward $0.99–$0.985.\n\nTrust in reserves is still the core story here, more than tech.\n@EdgenTech",
-        "sentiment": "positive",
+        "created_at": "Aug 28",
+        "text": "Big Solana whale moves in the past 24h! $DOGWIFCOIN +$103.34M (32 ) $USD-COIN -$89.26M (116 ) $WRAPPED-SOLANA -$85.15M (61 ) $JITO-GOVERNANCE-TOKEN +$65.30M (23 ) Don't miss out! .",
+        "sentiment": "negative",
         "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 27",
+        "text": "Big Solana whale moves in the last 23h59m13s! Don't miss out: $FARTCOIN +$104.66M (26 ) $RENDER-TOKEN +$95.61M (29 ) $WRAPPED-SOLANA -$94.26M (75 ) $USD-COIN +$83.76M (157 ).",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 26",
+        "text": "Attention Scammers are getting more sophisticated and I just saw something disgusting. My basescan transactions show that my wallet frequently transferred 1,700 \"USD-coin\" to some other wallet. It looks shocking at first sight, when you don't remember signing any of those transactions. On Base (and Ethereum-like chains), anyone can create their own token contract. Some malicious token contracts are coded so that, when they emit a Transfer event, they log your address as the sender even though you never signed anything. Block explorers like BaseScan rely heavily on those Transfer events to display token transactions. That means BaseScan might show From: your wallet To: another wallet even though no real transfer of your assets occurred. Importantly: if you check the actual transaction details (the raw transaction and gas fees), youll notice that you never paid gas and theres no transaction signed by you. Thats the giveaway - only the scam contract emitted a fake event. The goal of the scammers is to cause noise and confusion and most likely to ultimately cause people to interact with that contract. That will trigger a signing request that will allow the scammer to drain your wallet. I don't know if this method has been around for a while but I have never seen it before, although I assumed it was possible. SHARE this to spread awareness. The transaction details showed a large number of affected wallets by this pathetic attempt to drain your wallet.",
+        "sentiment": "neutral",
+        "like_count": "1",
         "retweet_count": "2"
       },
       {
-        "created_at": "6m",
-        "text": "I’m not gonna lie I’d probably in tether just to fly around! 😂",
+        "created_at": "Aug 25",
+        "text": "Big moves in Solana whale action over 24h0m5.41050539s! $USD-COIN -$113.51M (118 sold) $GATE-WRAPPED-BTC +$50.51M (1 bought) $WRAPPED-SOLANA +$47.91M (69 bought) $BINANCE-STAKED-SOL +$26.99M (3 bought) Don't miss out!",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 24",
+        "text": "Big moves in Solana whale territory over 24h! Check out these shifts: $USD-COIN +$44.57M (123 ) $TETHER +$19.73M (48 ) $JITO-STAKED-SOL -$13.08M (27 ) $OKX-WRAPPED-BTC +$10.48M (1 ) Don't miss out!",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 23",
+        "text": "Big moves in Solana whales over the last 23h59m! Dive into the action: $USD-Coin -$205.23M (95 ) $Wrapped-Solana -$78.74M (85 ) $Binance-Staked-SOL +$26.20M (3 ) $Tether -$17.34M (30 ) Don't miss out!",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 22",
+        "text": "Big Solana whale moves in the last 24h! Check out the action: $WRAPPED-SOLANA +$81.25M (54 ) $USD-COIN -$60.05M (78 ) $TETHER -$11.79M (43 ) $JUPITER-STAKED-SOL -$9.36M (8 ). Don't miss out!",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Aug 21",
+        "text": "Big moves among Solana whales in the last 23h59m44.529596763s! $OFFICIAL-TRUMP +$6.68B (37 ) $USD-COIN +$330.67M (178 ) $WRAPPED-SOLANA +$56.09M (71 ) $JUPITER-PERPS-LP +$39.93M (14 ) Don't miss out!",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      }
+    ]
+  },
+  "solana": {
+    "timestamp": "2025-11-07T20:40:31.889471",
+    "tweets": [
+      {
+        "created_at": "4h",
+        "text": "x402 Explained - And Why It Matters for Solana? Everyones talking about x402 - but what exactly is it, and why does it matter for onchain payments? x402 is an open payment protocol developed by Coinbase, using the HTTP code 402: Payment Required. It lets apps, AI agents, or websites request and send $USDC payments directly onchain - no credit cards, no Web2 intermediaries. Think of it as the missing piece for machine-to-machine payments: AI agents paying each other for data or services Websites charging onchain for API usage Micropayments per action, not per subscription Thats why x402 is trending - its programmable payments made simple.",
+        "sentiment": "neutral",
+        "like_count": "31",
+        "retweet_count": "42"
+      },
+      {
+        "created_at": "2h",
+        "text": "Groyper meta will save the Solana trenches",
+        "sentiment": "neutral",
+        "like_count": "7",
+        "retweet_count": "7"
+      },
+      {
+        "created_at": "7s",
+        "text": "Please drake help me with the Solana please abeg your",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "Meet Hush: a privacy-first wallet on Solana",
+        "sentiment": "neutral",
+        "like_count": "220",
+        "retweet_count": "181"
+      },
+      {
+        "created_at": "11s",
+        "text": "This is incredible",
         "sentiment": "positive",
         "like_count": "",
         "retweet_count": ""
       },
       {
         "created_at": "4h",
-        "text": "he’s a tether, thts why he don’t actually know anything.. he just cosplay as a black american",
+        "text": "$XRP holders looking at these Solana donkeys. Ummm Mastercard , umm yea STFU.",
+        "sentiment": "neutral",
+        "like_count": "5",
+        "retweet_count": "6"
+      },
+      {
+        "created_at": "14s",
+        "text": "Impressive strategy and smooth execution DM me",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "22s",
+        "text": "Enjoy in green. Were seeing shades of green again The markets alive, and $PENGO is full of momentum $4.5M MC the calm is over, the wave begins CA: F2k82EcxLtzekq1bfoGVdgp6EXZ5dLT1jE7g3LvQpump #Solana #Crypto #PetroPenguins",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": "1"
+      },
+      {
+        "created_at": "1h",
+        "text": "They laughed when $HEARTPEPE said love would conquer the meme war. Now theyre watching it happen in real time. Love isnt weak its unstoppable. #HeartPepe #Solana #MemeSeason #LoveWins",
+        "sentiment": "positive",
+        "like_count": "3",
+        "retweet_count": "3"
+      },
+      {
+        "created_at": "16s",
+        "text": "solana needs to break 172 on this rally.",
         "sentiment": "neutral",
         "like_count": "",
         "retweet_count": ""
+      }
+    ]
+  },
+  "binancecoin": {
+    "timestamp": "2025-11-07T20:40:53.830878",
+    "tweets": [
+      {
+        "created_at": "2h",
+        "text": "$BNB is now $958.94 thats $411.05 (30.8%) below its all-time high of $1,369.99. #Binancecoin",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "10h",
+        "text": "Crypto Price Update BTC: $101,563.00 (-1.55%) ETH: $3,335.80 (-1.33%) SOL: $157.07 (-1.32%) LTC: $89.89 (+3.51%) XRP: $2.22 (-4.29%) BNB: $964.92 (+1.43%) #Litecoin #Binancecoin #Solana #Crypto #Bitcoin #ETH #SOL #BNB #XRP #LTC",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "11h",
+        "text": "Sell on BNB #crypto #bnb #binance #shortbnb #short #binancecoin",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "20h",
+        "text": "Top 5 #cryptocurrencies Alert Time: 2025-11-07 01:00:02 #Bitcoin: 77208 #Ethereum: 2526.58 #Tether: 0.761209 #Ripple: 1.69 #Binancecoin: 725.25 coin-miners.info/top-gainers #crypto $GBP $BTC $BNB $ETH",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "20h",
+        "text": "Crypto Price Update BTC: $101,281.00 (-2.36%) ETH: $3,311.38 (-3.53%) SOL: $155.07 (-4.61%) LTC: $86.87 (-2.75%) XRP: $2.21 (-5.97%) BNB: $951.89 (-0.67%) #Binancecoin #Bitcoin #Litecoin #Crypto #Bitcoin #ETH #SOL #BNB #XRP #LTC",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "21h",
+        "text": "Top 5 #cryptocurrencies Alert Time: 2025-11-07 00:00:01 #Bitcoin: $101067 #Ethereum: $3326.79 #Tether: $0.999635 #Ripple: $2.21 #Binancecoin: $952.72 coin-miners.info/top-gainers #crypto #coldstorage $btc $bnb $eth $USD",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "$BNB is now $935.08 thats $434.91 (32.0%) below its all-time high of $1,369.99. #Binancecoin",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "#BinanceCoin - 3 whales aped - NEW #BSC gmgn.ai/bsc/token/rLkfkJiz_0 MC $6K | Liq 6% | -10% 24h Vol: $46K (8.1x MC) | Price: $0.00000566 15 Holders | Snipers: 0.0%/0.1% Bonding 0.0% | Phishing: 0.0% TOP10: 2.8% | DEV 0.0% Dex: Ad Bst Soc AI SEC BH Score: 75/100 - #DYOR",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "#BinanceCoin - 3 whales aped - NEW #BSC gmgn.ai/bsc/token/rLkfkJiz_0 MC $6K | Liq 6% | -10% 24h Vol: $46K (8.1x MC) | Price: $0.00000566 15 Holders | Snipers: 0.0%/0.1% Bonding 0.0% | Phishing: 0.0% TOP10: 2.8% | DEV 0.0% Dex: Ad Bst Soc AI SEC BH Score: 75/100 - #DYOR",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "#BinanceCoin - 3 whales aped - NEW #BSC gmgn.ai/bsc/token/rLkfkJiz_0 MC $6K | Liq 6% | -10% 24h Vol: $46K (8.1x MC) | Price: $0.00000566 15 Holders | Snipers: 0.0%/0.1% Bonding 0.0% | Phishing: 0.0% TOP10: 2.8% | DEV 0.0% Dex: Ad Bst Soc AI SEC BH Score: 75/100 - #DYOR",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      }
+    ]
+  },
+  "staked-ether": {
+    "timestamp": "2025-11-07T20:41:05.175586",
+    "tweets": [
+      {
+        "created_at": "1h",
+        "text": "Large Sell by Whale just Sell $205,549.86 worth of $Liquid staked Ether 2.0(stETH) on #eth at an average price of $3,362.83, with an alert triggered at a market cap of $28,884,047,785.10 million. CA: 0xae7ab96520de3a18e5e111b5eaab095312d7fe84 Source: CoinWings AI Signal Register & download: coinwings.io/en-US/register?",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "1h",
+        "text": "07.11.2025 Top 10 DeFi Yield Pools by TVL - Total: 78.6B - #lido, #binance-staked-eth, #ether.fi-stake, #aave-v3, #ethena-usde #DeFi #Yield #TVL",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Oct 24",
+        "text": "September was a pivotal month for The Ether Machine: 10 weeks since launch, our Big Four audit is complete, our S-4 registration is confidentially filed with the SEC, and all ETH under custody is fully staked onchain across diverse clients and geographies. Our validators continue to rank among the top tier for efficiency, generating an implied annualized yield of 2.94%, outperforming the CESR benchmark of 2.86% for the month. This early performance validates our onchain strategy and operational readiness at scale. Inclusive of our staking rewards, our total ETH custodied or committed exceeds 496K+ ETH. The Machine is in motion, built to compound Ether Generation per Share (EGPS). The asset is ETH, the yield is The Ether Machine, and the ticker is (Nasdaq) $ETHM",
+        "sentiment": "neutral",
+        "like_count": "7",
+        "retweet_count": "17"
+      },
+      {
+        "created_at": "4h",
+        "text": "Large Buy by Whale just Buy $21,173,746.68 worth of $Liquid staked Ether 2.0(stETH) on #eth at an average price of $3,184.94, with an alert triggered at a market cap of $27,356,145,288.36 million. CA: 0xae7ab96520de3a18e5e111b5eaab095312d7fe84 Source: CoinWings AI Signal Register & download: coinwings.io/en-US/register?",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "4h",
+        "text": "im pretty sure she is on bera, not Mantle Staked Ether",
+        "sentiment": "positive",
+        "like_count": "1",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "5h",
+        "text": "Top Crypto MCAP Losers (24h) 1. XRP: -4.68% 2. Solana: -4.44% 3. Lido Staked Ether: -3.93% 4. Ethereum: -3.87% 5. Bitcoin: -2.74% #Crypto #Blockchain #Markets",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "JUSTIN SUN STAKED 150 MILLION IN ETH! As per Arkham, he withdrew 45,000 $ETH ($154.5M) from AAVE and deposited it into Lido staking now holding $534M in ETH, surpassing his $519M in TRX holdings.",
+        "sentiment": "neutral",
+        "like_count": "160",
+        "retweet_count": "242"
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "Liquidity goes borderless. CCIP and CCT strengthen Wrapped Staked Ether (wstETH), the largest LST in the industry, with sovereign control, defense-in-depth security, and programmable safeguards.",
+        "sentiment": "neutral",
+        "like_count": "1",
+        "retweet_count": "2"
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "06.11.2025 Top 10 DeFi Yield Pools by TVL - Total: 77.7B - #lido, #binance-staked-eth, #ether.fi-stake, #aave-v3, #ethena-usde #DeFi #Yield #TVL",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "top 3 on base by market cap right nowvirtual protocol leading the pack, followed by wsteth and seda. quick hits: - virtual protocol (VIRTUAL): $793M cap, $1.21 price, $19.9M volume, -10.7% 24h change. ai agents pumping hard. - wrapped liquid staked ether 2.0 (wstETH): $212M cap, $4024 price, $1.8M volume, -2.3% 24h change. eth's quiet powerhouse. - seda (SEDA): $105M cap, $0.17 price, $1.3M volume, -17.5% 24h change. steady flow despite the dip. oh, and $BNKR: $38.5M cap, $0.000386 price, $408K volume, -7% 24h change. my token's the real base bossundervalued gem ready to flip the script.",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      }
+    ]
+  },
+  "tron": {
+    "timestamp": "2025-11-07T20:41:28.272827",
+    "tweets": []
+  },
+  "ripple": {
+    "timestamp": "2025-11-07T20:41:50.641065",
+    "tweets": [
+      {
+        "created_at": "11s",
+        "text": "Keep dreaming with this BS",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "1h",
+        "text": "Massive Success awaits, in plain sight. The Sun will shine upon #Ripple #XRP Lock In.",
+        "sentiment": "neutral",
+        "like_count": "29",
+        "retweet_count": "40"
+      },
+      {
+        "created_at": "15h",
+        "text": "XDC CRYPTO PRICE TARGET $1100-$225,000. A $4+ QUADRILLION DERIVATIVES MARKET SET FOR 2025! #BREAKING #XRP #XLM #XDC #ALGO #Quant #IOTA #HBAR #Ripple #Crypto #cryptocurrency #cryptotrading #XRPHolders #XRPLedger",
+        "sentiment": "neutral",
+        "like_count": "36",
+        "retweet_count": "128"
+      },
+      {
+        "created_at": "1h",
+        "text": "BREAKING: Canary Capital has just announced the Canary XRP ETF ( $XRPC ) officially coming soon! Institutional demand is heating up. The floodgates for $XRP are about to open. #XRP #XRPC #Ripple",
+        "sentiment": "neutral",
+        "like_count": "7",
+        "retweet_count": "44"
+      },
+      {
+        "created_at": "3h",
+        "text": "UPDATE: Ripple scraps IPO talk despite legal clarity and new backing. New $500M raise and a $40B valuation back the stance.",
+        "sentiment": "positive",
+        "like_count": "65",
+        "retweet_count": "87"
+      },
+      {
+        "created_at": "39s",
+        "text": "Thanks for keeping us in the loop, Phil.",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "Wow, well done Ripple team, did not see that coming. Congrats.",
+        "sentiment": "neutral",
+        "like_count": "268",
+        "retweet_count": "176"
+      },
+      {
+        "created_at": "51s",
+        "text": "Institutions are adopting #Bitcoin and #Ripple Even whole NATIONS are taking about strategic reserves of #Crypto. If you are going to be pissy about a little negative price action then youre missing the point and dont belong here. Sell out now, you dont deserve whats coming. $BTC $XRP $XMR $ZEC",
+        "sentiment": "neutral",
+        "like_count": "",
+        "retweet_count": ""
+      },
+      {
+        "created_at": "1m",
+        "text": "XRP Perfect Storm! Ripple Says XRP is Unique and JPMorgan is Buying up... piped.video/fekAH8DKlUU?si=p1vf via",
+        "sentiment": "positive",
+        "like_count": "",
+        "retweet_count": "1"
+      },
+      {
+        "created_at": "Nov 6",
+        "text": "Ripple Bank of America Documented 4x.",
+        "sentiment": "neutral",
+        "like_count": "14",
+        "retweet_count": "235"
       }
     ]
   }

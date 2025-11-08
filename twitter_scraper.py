@@ -7,6 +7,7 @@ import random
 import time
 import json
 from textblob import TextBlob  # simple sentiment analyzer
+import re
 
 # Public Nitter mirrors
 NITTER_INSTANCES = [
@@ -45,6 +46,16 @@ def analyze_sentiment(text):
     else:
         return "neutral"
 
+
+def clean_text(text):
+    """Clean tweet text: remove HTML tags, links, hashtags, emojis, and extra spaces."""
+    text = re.sub(r"http\S+", "", text)                   # remove links
+    text = re.sub(r"@\S+", "", text)                      # remove mentions (optional)
+    text = re.sub(r"[\n\r]+", " ", text)                  # remove line breaks
+    text = re.sub(r"[^\x00-\x7F]+", "", text)             # remove emojis/non-ASCII
+    text = re.sub(r"\s+", " ", text)                      # collapse multiple spaces
+    return text.strip()
+
 def get_tweets(crypto_name, max_results=10):
     """Scrape or return cached tweets mentioning a cryptocurrency."""
     cache = load_cache()
@@ -77,7 +88,7 @@ def get_tweets(crypto_name, max_results=10):
                 date = tweet.find("span", class_="tweet-date")
                 stats = tweet.find_all("span", class_="tweet-stat")
 
-                text = content.text.strip() if content else ""
+                text = clean_text(content.text.strip()) if content else ""
                 sentiment = analyze_sentiment(text)
 
                 tweets_data.append({
@@ -103,9 +114,10 @@ def get_tweets(crypto_name, max_results=10):
     save_cache(cache)
 
     # Log to CSV (ML dataset building)
-    with open("tweets_log." \
-    "csv", "a", newline="", encoding="utf-8") as file:
+    with open("tweets_log.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
+        if file.tell() == 0:
+            writer.writerow(["timestamp", "crypto_name", "tweet_created_at", "text", "sentiment", "like_count", "retweet_count"])
         for tweet in tweets_data:
             writer.writerow([
                 now.isoformat(),
@@ -116,5 +128,5 @@ def get_tweets(crypto_name, max_results=10):
                 tweet["like_count"],
                 tweet["retweet_count"]
             ])
-
+    
     return tweets_data
