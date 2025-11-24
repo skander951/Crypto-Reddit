@@ -7,7 +7,7 @@ import requests
 
 OUTPUT_FILE = "/data/crypto_reddit.csv"
 COINS = ["solana", "ethereum", "cardano"]
-INTERVAL = 300  # every 5 minutes
+INTERVAL = 60  # every 1 minute
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
@@ -49,8 +49,7 @@ def main():
                 OUTPUT_FILE,
                 index=False,
                 header=not os.path.exists(OUTPUT_FILE),
-                mode='a',
-                date_format='%Y-%m-%d %H:%M:%S'
+                mode='a'
             )
             print(f"[{datetime.now(timezone.utc)}] Reddit sentiment saved ({len(df)} posts).")
         else:
